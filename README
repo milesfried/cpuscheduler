@@ -1,0 +1,8 @@
+Run in the java environment of your choice 
+
+After compiling the program can be executed with the following usage:
+
+java Driver <algorithm> <schedule file>
+
+algorithm = [FCFS, SJF, PRI, RR, PRI-RR]
+
